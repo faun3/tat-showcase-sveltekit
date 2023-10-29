@@ -5,5 +5,5 @@
 </script>
 
 <Header />
-<Namedrop />
 <ImageGallery />
+<Namedrop />
