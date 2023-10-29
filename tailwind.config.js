@@ -11,7 +11,7 @@ export default {
       },
     },
     colors: {
-      ink: "#22262F",
+      ink: "#1B1C1D",
       cream: "#EDE5DA",
     },
   },
