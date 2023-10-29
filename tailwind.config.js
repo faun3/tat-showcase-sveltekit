@@ -13,6 +13,7 @@ export default {
     colors: {
       ink: "#1B1C1D",
       cream: "#EDE5DA",
+      stone: "#ADADAD",
     },
   },
   plugins: [],

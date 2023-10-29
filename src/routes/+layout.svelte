@@ -2,4 +2,6 @@
   import "../app.css";
 </script>
 
-<slot />
+<main class="bg-ink overflow-x-hidden overflow-y-hidden">
+  <slot />
+</main>

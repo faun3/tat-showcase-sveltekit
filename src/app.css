@@ -5,6 +5,9 @@
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap");
 
 @layer utilities {
+  .tight-lines {
+    line-height: 0.75;
+  }
   .text-outline-cream {
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke-width: 2px;
