@@ -3,5 +3,5 @@
 </script>
 
 <div class="overflow-hidden">
-  <img {src} alt="" class="object-cover" />
+  <img {src} alt="" class="object-cover h-full" />
 </div>
